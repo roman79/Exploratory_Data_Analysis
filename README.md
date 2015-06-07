@@ -2,7 +2,7 @@
 
 ##Course Project 1
 
-### This is my repository for the Exploratory Data Analysis Course.
+This is my repository for the Exploratory Data Analysis Course.
 
 To run this script, please do the following:
 
