@@ -10,6 +10,6 @@ To run this script, please do the following:
 
 * Download the Dataset: Electric power consumption 
 
-* Extract the data 
+* Extract the data into /Data
 
 * Run the scripts
